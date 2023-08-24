@@ -1,0 +1,19 @@
+{
+    "name": "lajennylove/boilerplate-plugin",
+    "description": "Boilerplate Plugin for WordPress",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+        "name": "lajennylove",
+        "email":"jenny@socialmedialabs.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "./Engine"
+        }
+    }
+}

@@ -3,3 +3,4 @@ config/
 wp-content/uploads
 wp-admin/
 Capfile
+*.log

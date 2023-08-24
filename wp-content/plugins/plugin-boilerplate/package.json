@@ -1,0 +1,36 @@
+{
+  "name": "boilerplate-gulp",
+  "version": "1.0.0",
+  "description": "Boilerplate that includes SASS, Bootstrap 4.1, Jquery, ImageMin and Uglify",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp watch"
+  },
+  "author": "Jennifer Martinez",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "@babel/register": "^7.16.7",
+    "autoprefixer": "^10.4.1",
+    "babel-loader": "^8.2.3",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-sass": "^5.0.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-webp": "^4.0.1",
+    "imagemin-pngquant": "^8.0.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-uglify": "^3.0.2",
+    "imagemin-webp": "^6.0.0",
+    "ngrok": "^4.2.2",
+    "sass": "^1.54.3"
+  }
+}
