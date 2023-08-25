@@ -1,7 +1,6 @@
 wp-config.php
 config/
 wp-content/uploads
-wp-content/plugins
 Capfile
 *.log
 *~
