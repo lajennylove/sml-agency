@@ -1,6 +1,13 @@
 wp-config.php
 config/
 wp-content/uploads
-wp-admin/
+wp-content/plugins
 Capfile
 *.log
+*~
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.db
